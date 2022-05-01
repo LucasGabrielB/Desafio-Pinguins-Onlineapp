@@ -1,6 +1,6 @@
 # Desafio Pinguins Onlineapp
 
-<img src="https://allisonhorst.github.io/palmerpenguins/man/figures/lter_penguins.png" alt="lter_penguins" width="500" />
+<img src="https://i.imgur.com/orZWHly.png" alt="lter_penguins" width="500" />
 
 
 ## Sobre o dataset
